@@ -4,8 +4,12 @@ Cientista político, servidor público e pai.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renato_barreira) 
-[![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0009-0002-6194-6994) 
-[![Lattes](https://upload.wikimedia.org/wikipedia/commons/5/5e/CNPq_logo.png)](http://lattes.cnpq.br/)
+<a href="https://orcid.org/0009-0002-6194-6994" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" alt="ORCID" width="20" height="20">
+</a>  
+<a href="http://lattes.cnpq.br/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/CNPq_logo.png" alt="Lattes" width="20" height="20">
+</a>
 
 
 
