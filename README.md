@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 Cientista político, servidor público e pai.
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/renato_barreira) 
 [![ORCID]()](https://orcid.org/0009-0002-6194-6994) 
 [![Lattes]()](https://instagram.com/renato_barreira) 
